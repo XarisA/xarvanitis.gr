@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Deploying and Load Testing \"Sock Shop\" Microservices Demo",
+    "filename": "cloud.md",
+    "date": "2021-06-10",
+    "tags": ["cloud computing","microservices"]
+  },
+  {
+    "title": "Unlocking the Power of AI - Running Large Language Models locally in Arch Linux",
+    "filename": "unlocking_ai.md",
+    "tags": ["ai","llm","linux","arch"],
+    "date": "2024-04-05"
+  },
+  {
+    "title": "Hyksort Algorithm Explained",
+    "filename": "hyksort_in_C.md",
+    "date": "2021-03-08",
+    "tags": ["C","Algorithms"]
+  },
+  {
+    "title": "Building My Chess Engine pt.1 - Designing a Dynamic Chessboard",
+    "filename": "nitsa1.md",
+    "date": "2024-10-08",
+    "tags": ["ai","android","chess"]
+  },
+  {
+    "title": "Building My Chess Engine pt.2 - Building the Chess Engine",
+    "filename": "nitsa2.md",
+    "date": "2024-10-20",
+    "tags": ["ai","android","chess"]
+  },
+  {
+    "title": "Self-Hosting Stable Diffusion Models in Linux",
+    "filename": "stablediff.md",
+    "date": "2024-05-25",
+    "tags": ["ai","stable-diffusion","linux","arch"]
+  },
+  {
+    "title": "Useful FFmpeg Commands for Video Conversion and Manipulation",
+    "filename": "ffmpeg.md",
+    "date": "2020-11-10",
+    "tags": ["command-line-tools"]
+  }
+]

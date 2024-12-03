@@ -1,0 +1,105 @@
+[
+  {
+    "title": "AromaDB: A .NET Solution for Streamlining Aroma Development and Centralizing Chemical Data",
+    "date": "2022-10-29",
+    "tags": ["Application Development", "C#", "SQL", "private"],
+    "filename": "aromadb.md"
+  },
+  {
+    "title": "Caffeine++",
+    "date": "2019-11-21",
+    "tags": ["Application Development"],
+    "filename": "caffeinepp.md"
+  },
+  {
+    "title": "EmoRiCon: Real-time Emotion Recognition and Analytics in a Mobile Learning Application",
+    "date": "2022-11-21",
+    "tags": ["Android","Java", "Emotion Recognition", "Object Recognition", "ML Kit", "TensorFlow lite", "Firebase","thesis"],
+    "filename": "emoricon.md"
+  },
+  {
+    "title": "Ticket Booking System",
+    "date": "2022-03-15",
+    "tags": ["Web Development","Java", "Spring Boot", "Angular", "Microservices"],
+    "filename": "giguniverse.md",
+    "draft" : true
+  },
+  {
+    "title": "JD Edwards Julian Date Converter",
+    "date": "2022-07-09",
+    "tags": ["Android","Java","JDE"],
+    "filename": "jde_jdc.md"
+  },
+  {
+    "title": "JDE to ChemGes: Seamless Integration Between Oracle E1 ERP and ChemGes SDS Software",
+    "date": "2020-09-30",
+    "tags": ["Application Development","C#", "T-SQL", "private"],
+    "filename": "jde2chemges.md"
+  },
+  {
+    "title": "Midog: A Web Application for Managing Dog Health and Care with Ease",
+    "date": "2015-07-10",
+    "tags": ["Web Development","Javascript", "Angular"],
+    "filename": "midog.md"
+  },
+  {
+    "title": "Nethack: A Suite for Testing Various Networking Tools build in Python.",
+    "date": "2018-11-21",
+    "tags": ["Hack","Python"],
+    "filename": "nethack.md"
+  },
+  {
+    "title": "PDFR: A PDF Parser for Bulk Renaming Regulatory Documents from Oracle JDE E1",
+    "date": "2021-03-09",
+    "tags": ["C#","SQL","private","RAD"],
+    "filename": "pdfrenamer.md"
+  },
+  {
+    "title": "Pwned Password Check Tool",
+    "date": "2018-11-27",
+    "tags": ["Hack","Python"],
+    "filename": "pwnedpasscheck.md"
+  },
+  {
+    "title": "Run Analitics: Extracting and Analyzing Data from Fitness Trackers TCX files",
+    "date": "2017-02-18",
+    "tags": ["Analytics","Python"],
+    "filename": "runalysis.md"
+  },
+  {
+    "title": "Shadowlands: A Unity Desktop Game Showcasing AI Pathfinding with A Algorithm",
+    "date": "2021-04-18",
+    "tags": ["Game Developement","Unity","C#", "Algorithms"],
+    "filename": "shadowlands.md"
+  },
+  {
+    "title": "tcx2dict: A Python Module to parce TCX file to a Dictionary",
+    "date": "2017-02-17",
+    "tags": ["Python", "Library"],
+    "filename": "tcx2dict.md"
+  },
+  {
+    "title": "Precedence Graph Threading using Blockchain",
+    "date": "2021-05-14",
+    "tags": ["Java","Multithreading"],
+    "filename": "thread_blockchain.md"
+  },
+  {
+    "title": "Midiet: A Personalized Nutrition Program",
+    "date": "2021-07-08",
+    "filename": "midiet.md"
+  },
+  {
+    "title": "Hyksort Algorithm in C++: A K-Way Recursion Approach to Optimized Sorting on Distributed Memory Systems",
+    "date": "2021-02-08",
+    "tags": ["C++","Algorithm"],
+    "filename": "hyksort_in_cpp.md"
+  },
+  {
+    "title": "Smart Greece Alert",
+    "date": "2020-12-18",
+    "tags": ["Android","Java"],
+    "filename": "smart_greece_alert.md",
+    "draft" : true
+  }
+]

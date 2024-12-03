@@ -1,0 +1,139 @@
+{
+  "aboutMe": {
+    "name": "Harris Arvanitis",
+    "tagline": "Senior Software Engineer",
+    "details": "As an Experienced Software Engineer, I specialize in developing high-quality software solutions using .NET and T-SQL. Throughout my career, I have demonstrated a proven track record of driving project success through effective collaboration with cross-functional teams. I excel at optimizing code, designing databases, and solving complex problems to ensure optimal performance. \n\nWith a Master of Science in Advanced Software Development and Artificial Intelligence from the University of Piraeus, I possess the technical knowledge and expertise to deliver innovative solutions that meet business objectives. \n\nAs an enthusiastic learner, I remain up-to-date with the latest emerging technologies, enabling me to continuously improve my skills and deliver innovative solutions.",
+    "links": [
+      { "title": "xarvanitis", "url": "https://linkedin.com/in/xarvanitis", "icon": "fab fa-linkedin" },
+      { "title": "XarisA", "url": "https://github.com/xarisa", "icon": "fab fa-github" },
+      { "title": "website", "url": "https://xarvanitis.gr", "icon": "fas fa-globe" },
+      { "title": "email", "url": "mailto:xaris.b3fc4@slmail.me", "icon": "fa fa-envelope" }
+    ]
+  },
+  "education": [
+    {
+      "name": "MSc - Advanced Informatics and Computing Systems - Software Development and Artificial Intelligence",
+      "university": "University of Piraeus",
+      "date": "2020-2022",
+      "more": "MSc Thesis: Real-time emotion recognition and analytics in a mobile learning application (grade: 9.63/10)"
+    },
+    {
+      "name": "BSc - Electronics Engineering, Data Communications and Networking",
+      "university": "Piraeus University of Applied Sciences",
+      "date": "2002-2009",
+      "more": "BSc Thesis: Effects of Electromagnetic Radiation of Mobile Phones on Humans"
+    }
+  ],
+ "experience": [
+  {
+    "company": "Qualco SA",
+    "roles": [
+      {
+        "role": "Senior Software Engineer | Full Stack Developer",
+        "details": [
+          "Full stack development of Qualco's NPL (Non-Performing Loan) management web application.",
+          "Utilization of front-end and back-end technologies to ensure robust, scalable applications: Angular, TypeScript, .NET, Transact-SQL"
+        ],
+        "date": "09/2024 - Present"
+      },
+      {
+        "role": "Senior Software Engineer | Application Developer",
+        "details": [
+          "Application development of Qualco's enterprise Debt Management solution.",
+          "Analysis of business requirements and solution design.",
+          ".Net Development (C#, VB.NET)",
+          "Database Development (T-SQL)"
+        ],
+        "date": "11/2022 - 08/2024"
+      }
+    ]
+  },
+  {
+    "company": "Vioryl SA",
+    "roles": [
+      {
+        "role": "Senior Software Engineer - Head of IS",
+        "details": [
+          "Designing and Developing software solutions in .NET (C#, VB.Net)",
+          "Database Developer in Microsoft SQL Server",
+          "Systems analysis and Integration (ERP, WMS).",
+          "Oracle's JD Edwards Administrator",
+          "Data reporting & Analysis. Using T-SQL to transform, and model data with the goal of discovering useful information, suggesting conclusions, and supporting decision-making."
+        ],
+        "date": "08/2014 - 10/2022"
+      },
+      {
+        "role": "Senior Software Engineer - Data Analyst",
+        "details": [
+          "Designing and Developing software solutions and reports integrated in JD Edwards",
+          "Database Developer in Microsoft SQL Server",
+          "Oracle's JD Edwards Administrator",
+          "Data reporting & Analytics (T-SQL, Python)"
+        ],
+        "date": "04/2010 - 07/2014"
+      }
+    ]
+  },
+  {
+    "company": "Alfacon SA",
+    "roles": [
+      {
+        "role": "Software Engineer - ERP Consultant",
+        "details": [
+          "Consulting and Supporting ERP, CRM, WMS, E-commerce",
+          "Customizing and programming Applications",
+          "Administering and Programming Databases in MSSQL, Oracle",
+          "Reports and Software Development"
+        ],
+        "date": "02/2008 - 02/2010"
+      }
+    ]
+  },
+  {
+    "company": "X.MPITOS & D.MERGIANOS Ltd",
+    "roles": [
+      {
+        "role": "System Administrator",
+        "details": [
+          "Operating System and Network Administration over a network with windows servers, linux server and seventy windows desktop clients."
+        ],
+        "date": "01/2006 - 08/2006"
+      }
+    ]
+  }
+],
+  "skills": [
+    { "groupName": "Programming", "list": ["C#, Java, VB.Net", "Transact SQL", "Typescript, Angular", "Android"] },
+    { "groupName": "Databases", "list": ["MSSQL, MySQL, SQLite , MSAccess", "Firebase, MongoDB, RabbitMQ"] },
+    { "groupName": "Reporting Tools and Data Analysis", "list": ["DevExpress XtraReports", "Crystal Reports", "SSRS" , "Anaconda", "Python", "Excel, PowerBI"] },
+    { "groupName": "AI & Machine Learning", "list": ["TensorFlow, Keras", "Pandas, Numpy, Scikit-learn", "ML-kit"] },
+    { "groupName": "Systems", "list": ["Git, Docker, Bash", "Linux (Arch, Debian based)"] }
+  ],
+  "languages": [
+    { "name": "Greek", "level": "Native" },
+    { "name": "English", "level": "Professional" },
+    { "name": "Spanish", "level": "Limited" }
+  ],
+  "interests": [
+    "AI - Machine Learning - Science", "Aikido Martial Art (2nd Dan)", "Running", "Chess Club player", "Open source projects", "Reading Books"
+  ],
+  "honors": [
+    { "title": "Winner at Hackathon (Greece)", "subtitle": "Angelhack", "date": "2015" }
+  ],
+  "certificates": [
+    { "title": "Programming with HTML, CSS, TypeScript and Angular", "subtitle": "U2U", "date": "2023", "link": "https://online.u2u.be/certified/B1wQ" },
+    { "title": "Advanced Topics in SQL (Verified Certificate)", "subtitle": "Stanford Online", "date": "2022", "link": "https://courses.edx.org/certificates/3ee5a089cc3441acaff570d1e0ec3ed5" },
+    { "title": "Querying with Transact-SQL", "subtitle": "Microsoft", "date": "2015", "link": "https://s3.amazonaws.com/verify.edx.org/downloads/e88690a2e2b846928a5356612fb5f9f8/Certificate.pdf" },
+    { "title": "Introduction to Linux", "subtitle": "Linux Foundation", "date": "2014", "link": "https://s3.amazonaws.com/verify.edx.org/downloads/3ca4e781b3564d2abc7359ed9aad30a6/Certificate.pdf" },
+    { "title": "Introduction to Computational Thinking and Data Science", "subtitle": "MITx", "date": "2014", "link": "https://s3.amazonaws.com/verify.edx.org/downloads/ace41cd9608f44e69c7d8d0965d7dc4f/Certificate.pdf" },
+    { "title": "Introduction to Computer Science and Programming Using Python", "subtitle": "MITx", "date": "2014", "link": "https://s3.amazonaws.com/verify.edx.org/downloads/dfc24c4cf2014202a8c8251a44bbe2fd/Certificate.pdf" },
+    { "title": "Introduction to Computer Science and Programming", "subtitle": "MITx", "date": "2012", "link": "https://s3.amazonaws.com/verify.edx.org/downloads/1dffc4b012d5430289fed01a08e5425a/Certificate.pdf" },
+    { "title": "Entersoft ERP Technical Base - Advanced", "subtitle": "Entersoft", "date": "2011" },
+    { "title": "Soft1 ERP Technical II/III, Advanced", "subtitle": "Softone", "date": "2010" },
+    { "title": "Soft1 Advanced Application I/II", "subtitle": "Softone", "date": "2010" }
+  ],
+  "projects":[
+    {"title": "Check a brief list in my site", "link": "https://xarvanitis.gr/projects/"},
+    {"title": "Check my code in Github", "link": "https://github.com/xarisa"}
+  ]
+}
