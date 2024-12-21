@@ -61,7 +61,7 @@
     "filename": "pwnedpasscheck.md"
   },
   {
-    "title": "Run Analitics: Extracting and Analyzing Data from Fitness Trackers TCX files",
+    "title": "Run Analytics: Extracting and Analyzing Data from Fitness Trackers TCX files",
     "date": "2017-02-18",
     "tags": ["Analytics","Python"],
     "filename": "runanalysis.md"
