@@ -1,4 +1,4 @@
-# Run Analitics: Extracting and Analyzing Data from Fitness Trackers TCX files
+# Run Analytics: Extracting and Analyzing Data from Fitness Trackers TCX files
 
 Parse the tcx (xml file) from a sportwatch (Garmin,Strava,GoogleFit,MapMyRide etc.), create dictionary with xml data and plot everything .
 
