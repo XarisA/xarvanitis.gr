@@ -54,11 +54,10 @@
       {
         "role": "Senior Software Engineer - Head of IS",
         "details": [
-          "Designing and Developing software solutions in .NET (C#, VB.Net)",
-          "Database Developer in Microsoft SQL Server",
-          "Systems analysis and Integration (ERP, WMS).",
-          "Oracle's JD Edwards Administrator",
-          "Data reporting & Analysis. Using T-SQL to transform, and model data with the goal of discovering useful information, suggesting conclusions, and supporting decision-making."
+          "Led the Information Systems (IS) function, providing valuable insights and technology recommendations to company directors, supporting strategic decision-making.",
+          "Designed and developed robust software solutions using .NET and T-SQL, meeting business needs with high-performance applications.",
+          "Analyzed and integrated complex systems, including ERP, WMS, and Regulatory Software, enhancing cross-platform functionality.",
+          "Transformed and modeled data using T-SQL, delivering actionable insights and reports that supported data-driven decision-making."
         ],
         "date": "08/2014 - 10/2022"
       },
@@ -66,9 +65,9 @@
         "role": "Senior Software Engineer - Data Analyst",
         "details": [
           "Designing and Developing software solutions and reports integrated in JD Edwards",
-          "Database Developer in Microsoft SQL Server",
-          "Oracle's JD Edwards Administrator",
-          "Data reporting & Analytics (T-SQL, Python)"
+          "Developed and optimized databases in Microsoft SQL Server, ensuring data integrity and performance.",
+          "Managed and administered Oracle's JD Edwards ERP system, supporting seamless business operations.",
+          "Conducted data reporting and analytics using T-SQL and Python to uncover insights and support business decision-making"
         ],
         "date": "04/2010 - 07/2014"
       }
