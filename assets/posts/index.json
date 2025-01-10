@@ -40,5 +40,12 @@
     "filename": "ffmpeg.md",
     "date": "2020-11-10",
     "tags": ["command-line-tools"]
+  },
+  {
+    "title": "Building My Portfolio with Angular",
+    "filename": "xarvanitis.md",
+    "date": "2024-12-01",
+    "tags": ["angular","markdown"],
+    "draft": true
   }
 ]
