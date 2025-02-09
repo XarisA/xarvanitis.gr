@@ -30,6 +30,12 @@
     "tags": ["ai","android","chess"]
   },
   {
+    "title": "Building My Chess Engine pt.3 - Adding Book Support",
+    "filename": "nitsa3.md",
+    "date": "2025-02-09",
+    "tags": ["ai","android","chess"]
+  },
+  {
     "title": "Self-Hosting Stable Diffusion Models in Linux",
     "filename": "stablediff.md",
     "date": "2024-05-25",
