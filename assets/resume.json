@@ -132,7 +132,7 @@
     { "title": "Soft1 Advanced Application I/II", "subtitle": "Softone", "date": "2010" }
   ],
   "projects":[
-    {"title": "Check a brief list in my site", "link": "https://xarvanitis.gr/projects/"},
+    {"title": "Check a brief list in my site", "link": "/projects/"},
     {"title": "Check my code in Github", "link": "https://github.com/xarisa"}
   ]
 }
