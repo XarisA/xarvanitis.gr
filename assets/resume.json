@@ -4,10 +4,10 @@
     "tagline": "Senior Software Engineer",
     "details": "As an Experienced Software Engineer, I specialize in developing high-quality software solutions using .NET and T-SQL. Throughout my career, I have demonstrated a proven track record of driving project success through effective collaboration with cross-functional teams. I excel at optimizing code, designing databases, and solving complex problems to ensure optimal performance. \n\nWith a Master of Science in Advanced Software Development and Artificial Intelligence from the University of Piraeus, I possess the technical knowledge and expertise to deliver innovative solutions that meet business objectives. \n\nAs an enthusiastic learner, I remain up-to-date with the latest emerging technologies, enabling me to continuously improve my skills and deliver innovative solutions.",
     "links": [
-      { "title": "xarvanitis", "url": "https://linkedin.com/in/xarvanitis", "icon": "fab fa-linkedin" },
-      { "title": "XarisA", "url": "https://github.com/xarisa", "icon": "fab fa-github" },
-      { "title": "website", "url": "https://xarvanitis.gr", "icon": "fas fa-globe" },
-      { "title": "email", "url": "mailto:xaris.b3fc4@slmail.me", "icon": "fa fa-envelope" }
+      { "title": "xarvanitis", "url": "https://linkedin.com/in/xarvanitis", "icon": "linkedin" },
+      { "title": "XarisA", "url": "https://github.com/xarisa", "icon": "github" },
+      { "title": "website", "url": "https://xarvanitis.gr", "icon": "website" },
+      { "title": "email", "url": "mailto:xaris.b3fc4@slmail.me", "icon": "email"}
     ]
   },
   "education": [
