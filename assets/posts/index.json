@@ -32,7 +32,7 @@
   {
     "title": "Building My Chess Engine pt.3 - Adding Book Support",
     "filename": "nitsa3.md",
-    "date": "2025-02-09",
+    "date": "2024-12-18",
     "tags": ["ai","android","chess"]
   },
   {
@@ -50,8 +50,7 @@
   {
     "title": "Building My Developer Hub in Angular",
     "filename": "xarvanitis.md",
-    "date": "2024-12-01",
-    "tags": ["angular","markdown"],
-    "draft": true
+    "date": "2025-01-10",
+    "tags": ["angular","markdown"]
   }
 ]
