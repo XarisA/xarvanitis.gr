@@ -53,18 +53,9 @@ Projects and blog posts now live in Markdown files, just like content in a stati
 For the blog, the workflow is the same: metadata drives summaries, dates, and titles, and the Markdown content renders beautifully when opened. Writing, updating, or publishing content is effortless with no Angular code changes needed. Push to GitHub, and it’s live.
 
 
-## Clean, Flexible Icon System
-
-Navigation icons, print buttons, and external link indicators come from Angular Material. Brand logos like GitHub and LinkedIn use Font Awesome. I only import the icons I need, keeping the bundle light while maintaining full control over the visuals.
-
-
-## Fast, Snappy Navigation
-
-Lazy loading makes a noticeable difference. Each section Resume, Projects and Blog, loads independently, and Markdown files only load on demand. Navigation feels smooth and app-like, a clear upgrade over the old static Hugo Coder site.
-
-
 ## Thoughtful UX Enhancements
 
+Lazy loading makes a noticeable difference. Each section loads independently, and Markdown files only load on demand. Navigation feels smooth and like a web-app which is a clear upgrade over the old static Hugo Coder site.
 Small touches make a big difference: a floating back button, a scroll-to-top arrow, and a print-friendly resume view. These enhancements address minor annoyances from the old site, creating a smoother, more professional experience.
 
 ---
