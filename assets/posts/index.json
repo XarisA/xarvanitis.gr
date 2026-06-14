@@ -18,19 +18,19 @@
     "tags": ["C","Algorithms"]
   },
   {
-    "title": "Building My Chess Engine pt.1 - Designing a Dynamic Chessboard",
+    "title": "Building a Chess Engine pt.1 - Designing a Dynamic Chessboard",
     "filename": "nitsa1.md",
     "date": "2024-10-08",
     "tags": ["ai","android","chess"]
   },
   {
-    "title": "Building My Chess Engine pt.2 - Building the Chess Engine",
+    "title": "Building a Chess Engine pt.2 - Building the Chess Engine",
     "filename": "nitsa2.md",
     "date": "2024-10-20",
     "tags": ["ai","android","chess"]
   },
   {
-    "title": "Building My Chess Engine pt.3 - Adding Book Support",
+    "title": "Building a Chess Engine pt.3 - Adding Book Support",
     "filename": "nitsa3.md",
     "date": "2024-12-18",
     "tags": ["ai","android","chess"]
