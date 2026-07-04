@@ -1,4 +1,4 @@
-# Building My Chess Engine pt.3 - Adding Book Support and a Tiny Bit of Randomness
+# Building a Chess Engine pt.3 - Adding Book Support and a Tiny Bit of Randomness
 
 Alright, let’s get into it! In this part of the series, I made some big improvements to **Nitsa**.  After the decision-making algorithms and their performance in earlier parts of the project, it was time to make Nitsa more “human” and unpredictable. Also, Nitsa should be able to play different openings, and the deterministic evaluation does not help with this.
 To do this I added book support for a better opening play and a little bit of randomness to spice things up.

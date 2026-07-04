@@ -1,4 +1,4 @@
-# Building My Chess Engine pt.1 - Designing a Dynamic Chessboard
+# Building a Chess Engine pt.1 - Designing a Dynamic Chessboard
 
 *This is part of [Building my Chess Engine Series]()*
 

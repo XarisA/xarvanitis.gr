@@ -1,138 +1,268 @@
 {
   "aboutMe": {
     "name": "Harris Arvanitis",
-    "tagline": "Senior Software Engineer",
-    "details": "As an Experienced Software Engineer, I specialize in developing high-quality software solutions using .NET and T-SQL. Throughout my career, I have demonstrated a proven track record of driving project success through effective collaboration with cross-functional teams. I excel at optimizing code, designing databases, and solving complex problems to ensure optimal performance. \n\nWith a Master of Science in Advanced Software Development and Artificial Intelligence from the University of Piraeus, I possess the technical knowledge and expertise to deliver innovative solutions that meet business objectives. \n\nAs an enthusiastic learner, I remain up-to-date with the latest emerging technologies, enabling me to continuously improve my skills and deliver innovative solutions.",
+    "tagline": "Senior Software Engineer | Full-Stack Developer",
+    "details": "Senior Software Engineer with 15+ years of experience building scalable full-stack and data-driven software systems. Strong expertise in .NET, Angular, TypeScript, and Microsoft SQL Server, with a focus on system design, clean architecture, performance, and maintainability.\nExperience spans enterprise backend systems, frontend applications, and data-intensive platforms in regulated business domains.\nContributes to AI enablement initiatives through the application of AI-assisted development tools to improve engineering workflows, developer productivity, and software quality across teams.\n\nMSc in Advanced Software Development and Artificial Intelligence, University of Piraeus.",
     "links": [
-      { "title": "xarvanitis", "url": "https://linkedin.com/in/xarvanitis", "icon": "linkedin" },
-      { "title": "XarisA", "url": "https://github.com/xarisa", "icon": "github" },
-      { "title": "website", "url": "https://xarvanitis.gr", "icon": "website" },
-      { "title": "email", "url": "mailto:xaris.b3fc4@slmail.me", "icon": "email"}
+      {
+        "title": "xarvanitis",
+        "url": "https://linkedin.com/in/xarvanitis",
+        "icon": "linkedin"
+      },
+      {
+        "title": "XarisA",
+        "url": "https://github.com/xarisa",
+        "icon": "github"
+      },
+      {
+        "title": "website",
+        "url": "https://xarvanitis.gr",
+        "icon": "website"
+      },
+      {
+        "title": "email",
+        "url": "mailto:xaris.b3fc4@slmail.me",
+        "icon": "email"
+      }
     ]
   },
+
   "education": [
     {
       "name": "MSc - Advanced Informatics and Computing Systems - Software Development and Artificial Intelligence",
       "university": "University of Piraeus",
       "date": "2020-2022",
-      "more": "MSc Thesis: Real-time emotion recognition and analytics in a mobile learning application (grade: 9.63/10)"
+      "more": "Thesis: Real-time emotion recognition and analytics in a mobile learning application (grade: 9.63/10)"
     },
     {
       "name": "BSc - Electronics Engineering, Data Communications and Networking",
       "university": "Piraeus University of Applied Sciences",
       "date": "2002-2009",
-      "more": "BSc Thesis: Effects of Electromagnetic Radiation of Mobile Phones on Humans"
+      "more": "Thesis: Effects of Electromagnetic Radiation of Mobile Phones on Humans"
     }
   ],
- "experience": [
-  {
-    "company": "Qualco SA",
-    "roles": [
-      {
-        "role": "Senior Software Engineer | Full Stack Developer",
-        "details": [
-          "Full stack development of Qualco's NPL (Non-Performing Loan) management web application.",
-          "Utilization of front-end and back-end technologies to ensure robust, scalable applications: Angular, TypeScript, .NET, Transact-SQL"
-        ],
-        "date": "09/2024 - Present"
-      },
-      {
-        "role": "Senior Software Engineer | Application Developer",
-        "details": [
-          "Application development of Qualco's enterprise Debt Management solution.",
-          "Analysis of business requirements and solution design.",
-          ".Net Development (C#, VB.NET)",
-          "Database Development (T-SQL)"
-        ],
-        "date": "11/2022 - 08/2024"
-      }
-    ]
-  },
-  {
-    "company": "Vioryl SA",
-    "roles": [
-      {
-        "role": "Senior Software Engineer - Head of IS",
-        "details": [
-          "Led the Information Systems (IS) function, providing valuable insights and technology recommendations to company directors, supporting strategic decision-making.",
-          "Designed and developed robust software solutions using .NET and T-SQL, meeting business needs with high-performance applications.",
-          "Analyzed and integrated complex systems, including ERP, WMS, and Regulatory Software, enhancing cross-platform functionality.",
-          "Transformed and modeled data using T-SQL, delivering actionable insights and reports that supported data-driven decision-making."
-        ],
-        "date": "08/2014 - 10/2022"
-      },
-      {
-        "role": "Senior Software Engineer - Data Analyst",
-        "details": [
-          "Designing and Developing software solutions and reports integrated in JD Edwards",
-          "Developed and optimized databases in Microsoft SQL Server, ensuring data integrity and performance.",
-          "Managed and administered Oracle's JD Edwards ERP system, supporting seamless business operations.",
-          "Conducted data reporting and analytics using T-SQL and Python to uncover insights and support business decision-making"
-        ],
-        "date": "04/2010 - 07/2014"
-      }
-    ]
-  },
-  {
-    "company": "Alfacon SA",
-    "roles": [
-      {
-        "role": "Software Engineer - ERP Consultant",
-        "details": [
-          "Consulting and Supporting ERP, CRM, WMS, E-commerce",
-          "Customizing and programming Applications",
-          "Administering and Programming Databases in MSSQL, Oracle",
-          "Reports and Software Development"
-        ],
-        "date": "02/2008 - 02/2010"
-      }
-    ]
-  },
-  {
-    "company": "X.MPITOS & D.MERGIANOS Ltd",
-    "roles": [
-      {
-        "role": "System Administrator",
-        "details": [
-          "Operating System and Network Administration over a network with windows servers, linux server and seventy windows desktop clients."
-        ],
-        "date": "01/2006 - 08/2006"
-      }
-    ]
-  }
-],
-  "skills": [
-    { "groupName": "Programming", "list": ["C#, Java, VB.Net", "Transact SQL", "Typescript, Angular", "Android"] },
-    { "groupName": "Databases", "list": ["MSSQL, MySQL, SQLite , MSAccess", "Firebase, MongoDB, RabbitMQ"] },
-    { "groupName": "Reporting Tools and Data Analysis", "list": ["DevExpress XtraReports", "Crystal Reports", "SSRS" , "Anaconda", "Python", "Excel, PowerBI"] },
-    { "groupName": "AI & Machine Learning", "list": ["TensorFlow, Keras", "Pandas, Numpy, Scikit-learn", "ML-kit"] },
-    { "groupName": "Systems", "list": ["Git, Docker, Bash", "Linux (Arch, Debian based)"] }
+
+  "experience": [
+    {
+      "company": "Qualco SA",
+      "roles": [
+        {
+          "role": "Senior Software Engineer | Full Stack Developer",
+          "date": "09/2024 - Present",
+          "details": [
+            "Develop, and maintain Qualco's enterprise NPL (Non-Performing Loan) management platform using Angular, TypeScript, .NET, and Microsoft SQL Server, delivering scalable full-stack functionality for business-critical workflows.",
+            "Primary contributor for the Plan Calculation module in the QLM platform, responsible for implementing and maintaining critical financial computation logic in a regulated banking system.",
+            "Since 2026, contribute to Qualco Technology's AI enablement initiative by evaluating AI-assisted development tools, improving engineering workflows through prompt engineering, presenting findings to engineering leadership, and supporting organization-wide adoption of AI within the software development lifecycle."
+          ]
+        },
+        {
+          "role": "Senior Software Engineer | Application Developer",
+          "date": "11/2022 - 08/2024",
+          "details": [
+            "Design, develop, and maintain Qualco's enterprise Debt Management system serving complex business workflows.",
+            "Analyzed business requirements and translated them into technical solutions.",
+            "Designed, developed, and maintained end-to-end desktop application features across UI, business logic, and data access layers using C# and VB.NET with DevExpress and Infragistics frameworks.",
+            "Developed and optimized SQL Server database objects and T-SQL code, implementing business functionality while improving application performance and reliability."
+          ]
+        }
+      ]
+    },
+
+    {
+      "company": "Vioryl SA",
+      "roles": [
+        {
+          "role": "Senior Software Engineer - Head of IS",
+          "date": "08/2014 - 10/2022",
+          "details": [
+            "Led the Information Systems function, providing technical direction and software strategy to company leadership.",
+            "Designed and implemented enterprise software solutions using .NET and SQL Server.",
+            "Integrated enterprise systems including ERP, WMS, and regulatory platforms.",
+            "Developed data models, reporting systems, and analytics solutions to support decision-making."
+          ]
+        },
+        {
+          "role": "Senior Software Engineer - Data Analyst",
+          "date": "04/2010 - 07/2014",
+          "details": [
+            "Built and maintained applications and reporting solutions integrated with JD Edwards ERP.",
+            "Designed and optimized SQL Server databases for performance and reliability.",
+            "Managed Oracle JD Edwards ERP system administration.",
+            "Performed data analysis and reporting using T-SQL and Python."
+          ]
+        }
+      ]
+    },
+
+    {
+      "company": "Alfacon SA",
+      "roles": [
+        {
+          "role": "Software Engineer - ERP Consultant",
+          "date": "02/2008 - 02/2010",
+          "details": [
+            "Provided ERP, CRM, WMS, and e-commerce system consulting and technical support.",
+            "Developed and customized enterprise applications.",
+            "Administered databases (Microsoft SQL Server, Oracle).",
+            "Developed reports and software solutions."
+          ]
+        }
+      ]
+    },
+
+    {
+      "company": "X.MPITOS & D.MERGIANOS Ltd",
+      "roles": [
+        {
+          "role": "System Administrator",
+          "date": "01/2006 - 08/2006",
+          "details": [
+            "Managed Windows and Linux server infrastructure and enterprise network systems."
+          ]
+        }
+      ]
+    }
   ],
+
+  "skills": [
+    {
+      "groupName": "Software Engineering",
+      "list": [
+        "Object-Oriented Design",
+        "SOLID Principles",
+        "Clean Architecture",
+        "Design Patterns",
+        "REST APIs",
+        "Git"
+      ]
+    },
+    {
+      "groupName": "Frameworks & Platforms",
+      "list": [".NET", "ASP.NET Core", "Angular", "Entity Framework"]
+    },
+    {
+      "groupName": "Programming Languages",
+      "list": ["C#", "TypeScript", "SQL", "Python", "Java", "VB.NET"]
+    },
+    {
+      "groupName": "Databases & Data Engineering",
+      "list": [
+        "Microsoft SQL Server (T-SQL)",
+        "MySQL",
+        "SQLite",
+        "MongoDB",
+        "Firebase",
+        "Database Design",
+        "Query Optimization",
+        "Performance Tuning"
+      ]
+    },
+    {
+      "groupName": "Applied AI for Software Engineering",
+      "list": [
+        "AI-assisted Software Development",
+        "Prompt Engineering",
+        "LLM Evaluation",
+        "AI Integration in SDLC",
+        "Developer Productivity Optimization",
+        "Engineering Workflow Optimization"
+      ]
+    },
+    {
+      "groupName": "Applied AI & Machine Learning",
+      "list": [
+        "TensorFlow",
+        "Keras",
+        "Scikit-learn",
+        "ML Kit"
+      ]
+    },
+    {
+      "groupName": "Tools & Systems",
+      "list": [
+        "Visual Studio",
+        "VS Code",
+        "IntelliJ",
+        "Git",
+        "Docker",
+        "Linux",
+        "Bash",
+        "CI/CD Awareness"
+      ]
+    }
+  ],
+
   "languages": [
     { "name": "Greek", "level": "Native" },
     { "name": "English", "level": "Professional" },
     { "name": "Spanish", "level": "Limited" }
   ],
+
   "interests": [
-    "AI - Machine Learning - Science", "Aikido Martial Art", "Running", "Chess Club player", "Open source projects", "Reading Books"
+    "Open Source",
+    "Artificial Intelligence",
+    "Software Engineering",
+    "Reading",
+    "Chess",
+    "Running",
+    "Aikido"
   ],
+
   "honors": [
-    { "title": "Winner at Hackathon (Greece)", "subtitle": "Angelhack", "date": "2015" }
+    {
+      "title": "Winner at Hackathon (Greece)",
+      "subtitle": "AngelHack",
+      "date": "2015"
+    }
   ],
+
   "certificates": [
-    { "title": "Programming with HTML, CSS, TypeScript and Angular", "subtitle": "U2U", "date": "2023", "link": "https://online.u2u.be/certified/B1wQ" },
-    { "title": "Advanced Topics in SQL (Verified Certificate)", "subtitle": "Stanford Online", "date": "2022", "link": "https://courses.edx.org/certificates/3ee5a089cc3441acaff570d1e0ec3ed5" },
-    { "title": "Querying with Transact-SQL", "subtitle": "Microsoft", "date": "2015", "link": "https://s3.amazonaws.com/verify.edx.org/downloads/e88690a2e2b846928a5356612fb5f9f8/Certificate.pdf" },
-    { "title": "Introduction to Linux", "subtitle": "Linux Foundation", "date": "2014", "link": "https://s3.amazonaws.com/verify.edx.org/downloads/3ca4e781b3564d2abc7359ed9aad30a6/Certificate.pdf" },
-    { "title": "Introduction to Computational Thinking and Data Science", "subtitle": "MITx", "date": "2014", "link": "https://s3.amazonaws.com/verify.edx.org/downloads/ace41cd9608f44e69c7d8d0965d7dc4f/Certificate.pdf" },
-    { "title": "Introduction to Computer Science and Programming Using Python", "subtitle": "MITx", "date": "2014", "link": "https://s3.amazonaws.com/verify.edx.org/downloads/dfc24c4cf2014202a8c8251a44bbe2fd/Certificate.pdf" },
-    { "title": "Introduction to Computer Science and Programming", "subtitle": "MITx", "date": "2012", "link": "https://s3.amazonaws.com/verify.edx.org/downloads/1dffc4b012d5430289fed01a08e5425a/Certificate.pdf" },
-    { "title": "Entersoft ERP Technical Base - Advanced", "subtitle": "Entersoft", "date": "2011" },
-    { "title": "Soft1 ERP Technical II/III, Advanced", "subtitle": "Softone", "date": "2010" },
-    { "title": "Soft1 Advanced Application I/II", "subtitle": "Softone", "date": "2010" }
+    {
+      "title": "Programming with HTML, CSS, TypeScript and Angular",
+      "subtitle": "U2U",
+      "date": "2023",
+      "link": "https://online.u2u.be/certified/B1wQ"
+    },
+    {
+      "title": "Advanced Topics in SQL (Verified Certificate)",
+      "subtitle": "Stanford Online",
+      "date": "2022",
+      "link": "https://courses.edx.org/certificates/3ee5a089cc3441acaff570d1e0ec3ed5"
+    },
+    {
+      "title": "Querying with Transact-SQL",
+      "subtitle": "Microsoft",
+      "date": "2015",
+      "link": "https://s3.amazonaws.com/verify.edx.org/downloads/e88690a2e2b846928a5356612fb5f9f8/Certificate.pdf"
+    },
+    {
+      "title": "Introduction to Linux",
+      "subtitle": "Linux Foundation",
+      "date": "2014",
+      "link": "https://s3.amazonaws.com/verify.edx.org/downloads/3ca4e781b3564d2abc7359ed9aad30a6/Certificate.pdf"
+    },
+    {
+      "title": "Introduction to Computational Thinking and Data Science",
+      "subtitle": "MITx",
+      "date": "2014",
+      "link": "https://s3.amazonaws.com/verify.edx.org/downloads/ace41cd9608f44e69c7d8d0965d7dc4f/Certificate.pdf"
+    },
+    {
+      "title": "Introduction to Computer Science and Programming Using Python",
+      "subtitle": "MITx",
+      "date": "2014",
+      "link": "https://s3.amazonaws.com/verify.edx.org/downloads/dfc24c4cf2014202a8c8251a44bbe2fd/Certificate.pdf"
+    }
   ],
-  "projects":[
-    {"title": "Check a brief list in my site", "link": "/projects/"},
-    {"title": "Check my code in Github", "link": "https://github.com/xarisa"}
+
+  "projects": [
+    {
+      "title": "Projects overview",
+      "link": "/projects/"
+    },
+    {
+      "title": "GitHub repository",
+      "link": "https://github.com/xarisa"
+    }
   ]
 }
