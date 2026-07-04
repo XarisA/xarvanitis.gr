@@ -1,6 +1,6 @@
 # Building a Chess Engine pt.1 - Designing a Dynamic Chessboard
 
-*This is part of Building my Chess Engine Series*
+*This is part of [Building my Chess Engine Series]()*
 
 Chess has always fascinated me because of its complexity and the depth of strategy it offers.
  Inspired by the likes of famous chess engines, I set out to build my own, 'Nitsa', 
@@ -103,12 +103,13 @@ Below is a video showcasing the dynamic chessboard implemented in the first part
 <iframe 
   width="800" 
   height="450" 
-  src="https://www.youtube.com/embed/IeO9PEmbFuA" 
+  src="https://www.youtube.com/embed/IeO9PEmbFuA"
+  title="YouTube video player" 
   frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
   allowfullscreen>
 </iframe>
-
 
 ## Design Principles Followed 
 
