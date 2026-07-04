@@ -1,6 +1,6 @@
 # Building a Chess Engine pt.1 - Designing a Dynamic Chessboard
 
-*This is part of [Building my Chess Engine Series]()*
+*This is part of Building my Chess Engine Series*
 
 Chess has always fascinated me because of its complexity and the depth of strategy it offers.
  Inspired by the likes of famous chess engines, I set out to build my own, 'Nitsa', 
