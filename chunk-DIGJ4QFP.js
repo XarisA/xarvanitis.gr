@@ -1,0 +1,1 @@
+import{Z as s}from"./chunk-JNUZQWLZ.js";var o=class e{_selectedPost=null;set selectedPost(t){this._selectedPost=t}get selectedPost(){return this._selectedPost}clear(){this._selectedPost=null}static \u0275fac=function(c){return new(c||e)};static \u0275prov=s({token:e,factory:e.\u0275fac,providedIn:"root"})};export{o as a};
