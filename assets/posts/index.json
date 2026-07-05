@@ -52,5 +52,11 @@
     "filename": "xarvanitis.md",
     "date": "2025-01-10",
     "tags": ["angular","markdown"]
+  },
+  {
+    "title": "How AI Agents Actually Work. Models, Tools, Memory and Everything in Between.",
+    "filename": "aiagents1.md",
+    "tags": ["ai","llm","agents"],
+    "date": "2026-07-06"
   }
 ]
