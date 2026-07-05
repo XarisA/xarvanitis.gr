@@ -147,7 +147,7 @@
     {
       "groupName": "Databases & Data Engineering",
       "list": [
-        "Microsoft SQL Server (T-SQL)",
+        "Microsoft SQL Server",
         "MySQL",
         "SQLite",
         "MongoDB",
