@@ -99,17 +99,7 @@ The `ChessUtils` class serves as a collection of utility functions for various c
 ## Video Demo 
 Below is a video showcasing the dynamic chessboard implemented in the first part of the Nitsa chess engine development. It demonstrates the chessboard setup, piece movements, and interaction handling.
 
-
-<iframe 
-  width="800" 
-  height="450" 
-  src="https://www.youtube.com/embed/IeO9PEmbFuA"
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen>
-</iframe>
+[youtube:IeO9PEmbFuA]
 
 ## Design Principles Followed 
 

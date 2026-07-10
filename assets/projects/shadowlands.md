@@ -35,13 +35,4 @@ This allows the developer to interfere with the basic progression of our story u
 
 You can watch a Demo bellow. 
 
-<iframe 
-  width="800" 
-  height="450" 
-  src="https://www.youtube.com/embed/gP_xa6cY_tU"
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen>
-</iframe>
+[youtube:gP_xa6cY_tU]

@@ -31,13 +31,4 @@ The JDE Julian Date format specification can be found at [Oracle Help Center](ht
 
 ## Demo
 
-<iframe 
-  width="800" 
-  height="450" 
-  src="https://www.youtube.com/embed/QreO71lK1l8"
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen>
-</iframe>
+[youtube:QreO71lK1l8]
