@@ -1,1 +1,0 @@
-import{Z as o}from"./chunk-LOROCDPJ.js";var r=class e{_selectedProject=null;set selectedProject(t){this._selectedProject=t}get selectedProject(){return this._selectedProject}clear(){this._selectedProject=null}static \u0275fac=function(c){return new(c||e)};static \u0275prov=o({token:e,factory:e.\u0275fac,providedIn:"root"})};export{r as a};
