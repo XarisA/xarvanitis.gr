@@ -101,6 +101,7 @@
   {
     "title": "Midiet: A Personalized Nutrition Program",
     "date": "2021-07-08",
+    "tags": ["C#","WPF","SQL"],
     "filename": "midiet.md",
     "context": "academic"
   },
