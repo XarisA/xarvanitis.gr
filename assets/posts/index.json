@@ -58,5 +58,11 @@
     "filename": "aiagents1.md",
     "tags": ["ai","llm","agents"],
     "date": "2026-07-06"
+  },
+  {
+    "title": "ChatGPT, Claude, Copilot... Which AI Should You Actually Use?",
+    "filename": "aitools.md",
+    "tags": ["ai","llm","agents", "ai-tools"],
+    "date": "2026-07-25"
   }
 ]
