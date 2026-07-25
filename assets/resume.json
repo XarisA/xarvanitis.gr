@@ -2,7 +2,7 @@
   "aboutMe": {
     "name": "Harris Arvanitis",
     "tagline": "Senior Software Engineer | Full-Stack Developer",
-    "details": "Senior Software Engineer with 17+ years of experience building enterprise software systems, with expertise spanning backend engineering, full-stack web development, database design, and software architecture. Strong background in .NET, C#, Angular, TypeScript, and SQL Server, with a focus on designing reliable, scalable, and maintainable systems for complex and regulated business domains. Experienced in translating business requirements into production software, optimizing application and database performance, and leading the design of maintainable enterprise solutions.\nCurrently developing large-scale financial applications while contributing to engineering-wide AI enablement through the evaluation of AI development tools, prompt engineering, and the adoption of AI-assisted software engineering practices.\n\nMSc in Advanced Software Development and Artificial Intelligence, University of Piraeus.",
+    "details": "Senior Software Engineer with 17+ years of experience delivering enterprise software for financial and regulated business domains. Specialised in .NET, C#, Angular, TypeScript, SQL Server, and end-to-end application architecture from business requirements and data modelling to production delivery.\nCurrently building large-scale financial-platform functionality and contributing to AI-assisted engineering adoption through tool evaluation, workflow design, and practical enablement for development teams.\n\nMSc in Advanced Software Development and Artificial Intelligence, University of Piraeus.",
     "links": [
       {
         "title": "xarvanitis",
@@ -50,9 +50,9 @@
           "role": "Senior Software Engineer | Full Stack Developer",
           "date": "09/2024 - Present",
           "details": [
-            "Develop, and maintain Qualco's enterprise NPL (Non-Performing Loan) management platform using Angular, TypeScript, .NET, and Microsoft SQL Server, delivering scalable full-stack functionality for business-critical workflows.",
+            "Develop and maintain Qualco's enterprise NPL (Non-Performing Loan) management platform using Angular, TypeScript, .NET, and Microsoft SQL Server, delivering scalable full-stack functionality for business-critical workflows.",
             "Primary contributor for the Plan Calculation module in the QLM platform, responsible for implementing and maintaining critical financial computation logic in a regulated banking system.",
-            "Since 2026, contribute to Qualco Technology's AI enablement initiative by evaluating AI-assisted development tools, improving engineering workflows through prompt engineering, presenting findings to engineering leadership, and supporting organization-wide adoption of AI within the software development lifecycle."
+            "Support AI-assisted engineering adoption by evaluating tools and models, creating reusable prompts and guidance, training teams, and assessing effort-reduction opportunities across the SDLC."
           ]
         },
         {
@@ -132,8 +132,7 @@
         "SOLID Principles",
         "Clean Architecture",
         "Design Patterns",
-        "REST APIs",
-        "Git"
+        "REST APIs"
       ]
     },
     {
@@ -142,7 +141,7 @@
     },
     {
       "groupName": "Programming Languages",
-      "list": ["C#", "TypeScript", "SQL", "Python", "Java", "VB.NET"]
+      "list": ["C#", "TypeScript", "SQL / T-SQL", "Python", "Java", "VB.NET"]
     },
     {
       "groupName": "Databases & Data Engineering",
@@ -161,11 +160,11 @@
       "groupName": "Applied AI for Software Engineering",
       "list": [
         "AI-assisted Software Development",
-        "Prompt Engineering",
-        "LLM Evaluation",
-        "AI Integration in SDLC",
-        "Developer Productivity Optimization",
-        "Engineering Workflow Optimization"
+        "AI Tool, Agent & Model Evaluation",
+        "AI-enabled SDLC Adoption",
+        "Developer Enablement and Training",
+        "Prompt and Template Design",
+        "AI Productivity and Effort-Reduction Analysis"
       ]
     },
     {
@@ -186,8 +185,7 @@
         "Git",
         "Docker",
         "Linux",
-        "Bash",
-        "CI/CD Awareness"
+        "Bash"
       ]
     }
   ],
@@ -224,7 +222,7 @@
       "link": "https://online.u2u.be/certified/B1wQ"
     },
     {
-      "title": "Advanced Topics in SQL (Verified Certificate)",
+      "title": "Advanced Topics in SQL",
       "subtitle": "Stanford Online",
       "date": "2022",
       "link": "https://courses.edx.org/certificates/3ee5a089cc3441acaff570d1e0ec3ed5"

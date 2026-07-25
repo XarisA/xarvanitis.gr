@@ -2,66 +2,77 @@
   {
     "title": "Deploying and Load Testing \"Sock Shop\" Microservices Demo",
     "filename": "cloud.md",
+    "slug": "sock-shop-load-testing",
     "date": "2021-06-10",
     "tags": ["cloud computing","microservices"]
   },
   {
     "title": "Unlocking the Power of AI - Running Large Language Models locally in Arch Linux",
     "filename": "unlocking_ai.md",
+    "slug": "local-llms-arch-linux",
     "tags": ["ai","llm","linux","arch"],
     "date": "2024-04-05"
   },
   {
     "title": "Hyksort Algorithm Explained",
     "filename": "hyksort_in_C.md",
+    "slug": "hyksort-algorithm-c",
     "date": "2021-03-08",
     "tags": ["C","Algorithms"]
   },
   {
     "title": "Building a Chess Engine pt.1 - Designing a Dynamic Chessboard",
     "filename": "nitsa1.md",
+    "slug": "chess-engine-dynamic-chessboard",
     "date": "2024-10-08",
-    "tags": ["ai","android","chess"]
+    "tags": ["ai","android","chess-engine-series"]
   },
   {
     "title": "Building a Chess Engine pt.2 - Building the Chess Engine",
     "filename": "nitsa2.md",
+    "slug": "chess-engine-core",
     "date": "2024-10-20",
-    "tags": ["ai","android","chess"]
+    "tags": ["ai","android","chess-engine-series"]
   },
   {
     "title": "Building a Chess Engine pt.3 - Adding Book Support",
     "filename": "nitsa3.md",
+    "slug": "chess-engine-book-support",
     "date": "2024-12-18",
-    "tags": ["ai","android","chess"]
+    "tags": ["ai","android","chess-engine-series"]
   },
   {
     "title": "Self-Hosting Stable Diffusion Models in Linux",
     "filename": "stablediff.md",
+    "slug": "stable-diffusion-linux",
     "date": "2024-05-25",
     "tags": ["ai","stable-diffusion","linux","arch"]
   },
   {
     "title": "Useful FFmpeg Commands for Video Conversion and Manipulation",
     "filename": "ffmpeg.md",
+    "slug": "ffmpeg-cheat-sheet",
     "date": "2020-11-10",
     "tags": ["command-line-tools"]
   },
   {
     "title": "Building My Developer Hub in Angular",
     "filename": "xarvanitis.md",
+    "slug": "angular-developer-hub",
     "date": "2025-01-10",
     "tags": ["angular","markdown","web development"]
   },
   {
     "title": "How AI Agents Actually Work. Models, Tools, Memory and Everything in Between.",
     "filename": "aiagents1.md",
+    "slug": "ai-agents-explained",
     "tags": ["ai","llm","agents"],
     "date": "2026-07-06"
   },
   {
     "title": "ChatGPT, Claude, Copilot... Which AI Should You Actually Use?",
     "filename": "aitools.md",
+    "slug": "choosing-ai-tools",
     "tags": ["ai","llm","agents", "ai-tools"],
     "date": "2026-07-25"
   }

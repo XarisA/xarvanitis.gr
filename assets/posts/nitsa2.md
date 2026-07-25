@@ -1,5 +1,8 @@
 # Building a Chess Engine pt.2 - Building the Chess Engine
 
+*This is part of [Building my Chess Engine Series](/blog?tag=chess-engine-series)*
+
+
 In the second part of my journey to build Nitsa, I dive deeper into the algorithms and optimizations that power 
 the engine's decision-making. From core techniques like the Negamax algorithm to more advanced optimizations 
 such as Alpha-Beta pruning and move sorting. Each step plays a very important role in how Nitsa evaluates 

@@ -7,6 +7,7 @@ Throughout this article, when we mention a “model,” we’re talking about th
 Those capabilities come from the surrounding application, which decides what context the model receives, what data and tools it can access, which actions it is allowed to perform, and how its outputs are combined into the final result presented to the user.
 
 Let’s categorize the products by their intended purposes. 
+
 *If you're feeling lazy and don't want to read the whole article, here's a quick visual guide to help you out.*
 
 ![AI tools Comparison Table](assets/images/ai_tools_comparison_table.png)
@@ -44,6 +45,9 @@ A coding agent is fundamentally different from a chatbot. Instead of only genera
 >Rather than answering *"How would you implement this?"*, it can actually implement it.
 
 The language model is still responsible for reasoning and the decisions, but the surrounding application gives it access to the tools needed to perform software engineering tasks. The products in this section differ mainly in how they provide that environment and how deeply they integrate into the developer's workflow.
+
+*For a deeper explanation, read  [How AI Agents Actually Work](/blog/ai-agents-explained)*.
+
 
 ### Codex
 
