@@ -158,6 +158,6 @@
     "tags": ["C#", "Entity","ADO.Net"],
     "filename": "aspnetpatterns.md",
     "slug": "aspnet-core-data-access-patterns",
-    "context": "experimental"
+    "context": "open-source"
   }
 ]
