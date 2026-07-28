@@ -58,7 +58,14 @@
   {
     "title": "JDE to ChemGes: Seamless Integration Between Oracle E1 ERP and ChemGes SDS Software",
     "date": "2020-09-30",
-    "tags": ["Application Development", "C#", "T-SQL", "proprietary"],
+    "tags": [
+      "Application Development",
+      "System Integration",
+      "C#",
+      "T-SQL",
+      "ADO.Net",
+      "proprietary"
+    ],
     "filename": "jde2chemges.md",
     "slug": "jde-chemges-integration",
     "context": "professional"
@@ -155,9 +162,17 @@
   {
     "title": "ASP.NET Core data-access patterns",
     "date": "2025-06-07",
-    "tags": ["C#", "Entity","ADO.Net"],
+    "tags": ["C#", "Entity", "ADO.Net"],
     "filename": "aspnetpatterns.md",
     "slug": "aspnet-core-data-access-patterns",
     "context": "open-source"
+  },
+  {
+    "title": "Nitsa Chess Engine",
+    "filename": "nitsa.md",
+    "slug": "nitsa-chess-engine",
+    "date": "2026-07-29",
+    "tags": ["ai", "java", "javafx", "chess"],
+    "context": "experimental"
   }
 ]
