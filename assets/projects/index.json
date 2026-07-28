@@ -56,7 +56,7 @@
     "context": "open-source"
   },
   {
-    "title": "JDE to ChemGes: Seamless Integration Between Oracle E1 ERP and ChemGes SDS Software",
+    "title": "Building a Synchronization Platform Between an ERP and a Regulatory Compliance System",
     "date": "2020-09-30",
     "tags": [
       "Application Development",
@@ -67,7 +67,7 @@
       "proprietary"
     ],
     "filename": "jde2chemges.md",
-    "slug": "jde-chemges-integration",
+    "slug": "erp-regulatory-system-integration",
     "context": "professional"
   },
   {
