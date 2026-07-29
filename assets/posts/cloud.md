@@ -82,7 +82,7 @@ $ sudo docker stack deploy -c docker-compose.yml socksshop
 Now we could add worker nodes to the swarm very easily. The standard procedure suggested in the official docker docs is to connect to another computer with ssh and run the following command which is given when initializing our swarm (after the command `sudo docker swarm init --advertise-addr eth1`).
 
 ```shell
-$ docker swarm join --token SWMTKN-1-2zvvbbe1t7eb3is94sev0eo0323aogk4o3pakc24kl3n4kn54y-cbohozw6225u6uzodk6wu3148 83.212.111.176:2377
+$ docker swarm join --token <DOCKER_SWARM_JOIN_TOKEN> 83.212.111.176:2377
 ```
 
 ### Test the installation and that the application is operational
