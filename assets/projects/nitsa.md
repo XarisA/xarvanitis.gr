@@ -14,7 +14,7 @@ The application follows an MVVM-based layered architecture. JavaFX views handle 
 
 ## How the Algorithms Work Together
 
-The real search best move flow is the following:
+The search best move flow is the following:
 
 ![Search Best Move Flow](assets/images/chess_algorithm.png)
 

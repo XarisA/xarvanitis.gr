@@ -64,7 +64,7 @@ You can download the latest release from [here!](https://github.com/XarisA/Caffe
 ## Requirements
 
 caffeine++ just like any other c++ application needs microsoft visual c++ redistributables to run.
-You can download latest x86 package from [here.](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+You can download the latest x86 package from [here.](https://aka.ms/vc14/vc_redist.x86.exe)
 
 ## License
 

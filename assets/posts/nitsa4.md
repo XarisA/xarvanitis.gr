@@ -6,7 +6,7 @@ When I started building **Nitsa**, the project lived inside an Android applicati
 
 But chess engines are CPU-hungry applications because the search tree grows exponentially. A typical chess position has roughly 30 to 35 legal moves. Without pruning, searching only one move (ply) deeper does not add another 35 positions; it can multiply the existing work by about 35. At an average branching factor of 35, a depth of four plies can theoretically produce around 1.5 million positions, while six plies can exceed 1.8 billion. 
 
-Brute-force computing power alone is not enough, so in we found smart ways to solve this via different algorithms.
+Brute-force computing power alone is not enough, so we found smart ways to solve this via different algorithms.
 Alpha-Beta pruning, good move ordering, transposition caching, and other search techniques reduce that number dramatically, but they do not make the problem cheap. Quiescence search may also continue beyond the requested depth when the final position is tactically unstable. A phone is optimized for battery life and short interactive tasks, not for keeping every available CPU core busy while searching a game tree that appears to have a personal problem with exponential growth.
 
 For that reason, I finally migrated Nitsa from Android to a **Java desktop application using JavaFX**.

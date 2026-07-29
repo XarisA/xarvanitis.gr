@@ -24,7 +24,7 @@ docker compose --profile [ui] up --build
 ```
 
 Open in browser the server address eg
-[localhost:7860](localhost:7860)
+[localhost:7860](http://localhost:7860)
 
 You can now move to the Web UI section.
 
@@ -71,7 +71,7 @@ chmod +x webui.sh
 You can now move to the Web UI section.
 
 ## Web UI
-Open in browser the server address eg [localhost:7860](localhost:7860) or through your network ip.
+Open in browser the server address eg [localhost:7860](http://localhost:7860) or through your network ip.
 
 Prompt and fire Generate! 
 
