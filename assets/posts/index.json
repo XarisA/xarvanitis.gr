@@ -42,6 +42,13 @@
     "tags": ["ai","android","chess-engine-series"]
   },
   {
+    "title": "Building a Chess Engine pt.4 (final) - From Android to a Java Desktop App",
+    "filename": "nitsa4.md",
+    "slug": "chess-engine-java-desktop-app",
+    "date": "2026-07-26",
+    "tags": ["ai","java","javafx","chess-engine-series"]
+  },
+  {
     "title": "Self-Hosting Stable Diffusion Models in Linux",
     "filename": "stablediff.md",
     "slug": "stable-diffusion-linux",

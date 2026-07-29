@@ -1,6 +1,6 @@
 # AromaDB: A .NET Solution for Streamlining Aroma Development and Centralizing Chemical Data
 
-**AromaDB** is a custom-built software application designed and developed by me to support the digital transformation journey of Vioryl SA. This solution is crafted using **.NET C#** and **T-SQL**, with the goal of modernizing corporate processes by transitioning to a paperless workflow and consolidating scattered data into a unified platform.
+**AromaDB** is a custom-built software application designed and developed by me to support the digital transformation journey of the company I worked for. This solution is crafted using **.NET C#** and **T-SQL**, with the goal of modernizing corporate processes by transitioning to a paperless workflow and consolidating scattered data into a unified platform.
 
 The application seamlessly integrates with **Oracle E1 ERP**, ensuring that automated, consistent, and accurate information flows between both systems. This integration creates a **single source of truth**, enhancing data reliability and operational efficiency. Development began in 2019, with the first stable version released in 2020.
 
