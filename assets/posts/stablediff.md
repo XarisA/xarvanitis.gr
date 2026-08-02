@@ -98,7 +98,7 @@ As you can see using the stable-diffusion api and overriding the parameters, res
 
 ## Troubleshooting
 
-Most of the issues that occured, are described in the troubleshooting section of the [AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting) so feel free to check there.
+Most of the issues that occurred are described in the troubleshooting section of the [AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting), so feel free to check there.
 
 ### NansException
 

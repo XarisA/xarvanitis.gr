@@ -7,7 +7,7 @@ In this article, I will present two distinct methodologies for deploying AI mode
 - Normal Installation (on Arch linux)
 - Utilizing Docker (+using Docker Compose)
 
-In both aproaches we will use [Ollama](https://ollama.com/) for runnning the model and [open-webui](https://docs.openwebui.com/) as a web UI frontend.
+In both approaches, we will use [Ollama](https://ollama.com/) to run the model and [Open WebUI](https://docs.openwebui.com/) as a web UI frontend.
 
 ## Installing on Arch Linux
 

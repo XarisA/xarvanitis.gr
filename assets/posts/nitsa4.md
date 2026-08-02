@@ -64,7 +64,7 @@ This is another example of a chess-engine optimization that sounds wrong until i
 
 ## Negamax, Alpha-Beta, and Principal Variation Search
 
-[Negamax](https://www.chessprogramming.org/Negamax) is still the recursive backbone. As we probably metioned in the previous articles, chess is a zero-sum game, so the value of a position for one side is the negative value for the other. Instead of maintaining separate maximizing and minimizing functions, Negamax changes the sign when the side to move changes.
+[Negamax](https://www.chessprogramming.org/Negamax) is still the recursive backbone. As we probably mentioned in the previous articles, chess is a zero-sum game, so the value of a position for one side is the negative value for the other. Instead of maintaining separate maximizing and minimizing functions, Negamax changes the sign when the side to move changes.
 
 [Alpha-Beta pruning](https://www.chessprogramming.org/Alpha-Beta) runs inside that recursion. Alpha represents the best score already found for the current side, while beta is the limit the opponent can force. When alpha reaches or passes beta, the remaining moves cannot change the decision and the branch is cut.
 

@@ -65,7 +65,7 @@ Its role is very close to Codex. Both are suitable for repository-level implemen
 
 ### GitHub Copilot (Platform)
 
-GitHub Copilot is built around the software development workflow. It provides inline code completions and suggestions (like Intellisense with `GOD MODE: ON`), chat, code explanations and assistance across editors, the command line and GitHub. It also includes agentic capabilities for handling issues, suggesting changes and preparing pull requests. Its main advantage is it's location. GitHub Copilot is already integrated in some of the most used IDEs where many developers write, review and merge code.
+GitHub Copilot is built around the software development workflow. It provides inline code completions and suggestions (like IntelliSense with `GOD MODE: ON`), chat, code explanations and assistance across editors, the command line and GitHub. It also includes agentic capabilities for handling issues, suggesting changes and preparing pull requests. Its main advantage is its location. GitHub Copilot is already integrated into some of the most widely used IDEs, where many developers write, review and merge code.
 
 >The boundary between these products is becoming less strict. In the next section I will explain why.
 

@@ -1,6 +1,6 @@
-# Nethack: A Suite for Testing Various Networking Tools build in Python.
+# Nethack: A Suite for Testing Various Networking Tools Built in Python
 
-A suite for testing various networking tools build in python.
+A suite for testing various networking tools built in Python.
 *[View on GitHub](https://github.com/XarisA/nethack)*
 
 ## Installation

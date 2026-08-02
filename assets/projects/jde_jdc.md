@@ -6,7 +6,7 @@ JDE Julian Date Converter is a free, open source android application, which you 
 The minimum android version for this software is 8.0 (API level 26).
 
 
-Source Code:[ View on Github](https://github.com/XarisA/jde-julian-date-converter-android-app)
+Source Code: [View on GitHub](https://github.com/XarisA/jde-julian-date-converter-android-app)
 
 License:[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 

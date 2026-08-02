@@ -1,4 +1,4 @@
-# Shadowlands: A Unity Desktop Game Showcasing AI Pathfinding with A Algorithm
+# Shadowlands: A Unity Desktop Game Showcasing AI Pathfinding with an A* Algorithm
 
 ![Shadowlands](assets/images/sl1.png)
 

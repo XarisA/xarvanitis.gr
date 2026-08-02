@@ -2,7 +2,7 @@
 
 Parse the tcx (xml file) from a sportwatch (Garmin,Strava,GoogleFit,MapMyRide etc.), create dictionary with xml data and plot everything .
 
-*[View on GItHub](https://github.com/XarisA/runalysis)*
+*[View on GitHub](https://github.com/XarisA/runalysis)*
 
 ## Sample Plots
 

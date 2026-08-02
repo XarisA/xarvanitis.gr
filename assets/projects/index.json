@@ -73,13 +73,13 @@
   {
     "title": "Midog: A Web Application for Managing Dog Health and Care with Ease",
     "date": "2015-07-10",
-    "tags": ["Web Development", "Javascript", "Angular"],
+    "tags": ["Web Development", "JavaScript", "Angular"],
     "filename": "midog.md",
     "slug": "midog-web-app",
     "context": "award-winning"
   },
   {
-    "title": "Nethack: A Suite for Testing Various Networking Tools build in Python.",
+    "title": "Nethack: A Suite for Testing Various Networking Tools Built in Python",
     "date": "2018-11-21",
     "tags": ["Hack", "Python"],
     "filename": "nethack.md",
@@ -111,15 +111,15 @@
     "context": "open-source"
   },
   {
-    "title": "Shadowlands: A Unity Desktop Game Showcasing AI Pathfinding with A Algorithm",
+    "title": "Shadowlands: A Unity Desktop Game Showcasing AI Pathfinding with an A* Algorithm",
     "date": "2021-04-18",
-    "tags": ["Game Developement", "Unity", "C#", "Algorithms"],
+    "tags": ["Game Development", "Unity", "C#", "Algorithms"],
     "filename": "shadowlands.md",
     "slug": "shadowlands-astar",
     "context": "academic"
   },
   {
-    "title": "tcx2dict: A Python Module to parce TCX file to a Dictionary",
+    "title": "tcx2dict: A Python Module to Parse a TCX File into a Dictionary",
     "date": "2017-02-17",
     "tags": ["Python", "Library"],
     "filename": "tcx2dict.md",

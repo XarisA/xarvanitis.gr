@@ -1,6 +1,6 @@
 # Pwned Password Check Tool
 
-***pwnedpasscheck***s for pwned passwords from [haveibeenpwned.com](https://haveibeenpwned.com/API/v2#PwnedPasswords) v2 API by using the [pwnedpasswords](https://github.com/lionheart/pwnedpasswords) library.
+***pwnedpasscheck*** checks for pwned passwords using the [haveibeenpwned.com](https://haveibeenpwned.com/API/v2#PwnedPasswords) v2 API and the [pwnedpasswords](https://github.com/lionheart/pwnedpasswords) library.
 
 *[View on GitHub](https://github.com/XarisA/pwnedpasscheck)*
 

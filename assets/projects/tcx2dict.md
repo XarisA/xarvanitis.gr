@@ -1,4 +1,4 @@
-# tcx2dict: A Python Module to parce TCX file to a Dictionary
+# tcx2dict: A Python Module to Parse a TCX File into a Dictionary
 
 ***tcx2dict*** is a python module that reads data from a TCX file and stores them in a dictionary having a tuple as a key  
 `(#Lap,#measurement)`.  
